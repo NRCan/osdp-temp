@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://nrcan.github.io/osdp-temp/en">
+  <channel>
+    <title>Natural Resources Canada</title>
+    <link>https://nrcan.github.io/osdp-temp/en</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Site Images</title>
+  <link>https://nrcan.github.io/osdp-temp/en/node/6</link>
+  <description>&lt;span&gt;Site Images&lt;/span&gt;
+&lt;span&gt;&lt;a title="View user profile." href="https://nrcan.github.io/osdp-temp/en/user/14" lang="" about="https://nrcan.github.io/osdp-temp/en/user/14" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;egoodwin&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;Fri, 08/28/2020 - 15:41&lt;/span&gt;
+</description>
+  <pubDate>Fri, 28 Aug 2020 15:41:47 +0000</pubDate>
+    <dc:creator>egoodwin</dc:creator>
+    <guid isPermaLink="false">6 at https://nrcan.github.io/osdp-temp</guid>
+    </item>
+
+  </channel>
+</rss>
