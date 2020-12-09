@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://nrcan.github.io/fr">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://osdp-lz-r2-drupal-bucket.s3.amazonaws.com/fr">
   <channel>
     <title>Plateforme de science et de données ouvertes - Explorez l’information sur les effets cumulatifs et les activités de développement au Canada</title>
-    <link>https://nrcan.github.io/fr</link>
+    <link>https://osdp-lz-r2-drupal-bucket.s3.amazonaws.com/fr</link>
     <description/>
     <language>fr</language>
     

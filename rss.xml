@@ -2,11 +2,11 @@
 <html>
     <head>
         <meta charset="UTF-8" />
-        <meta http-equiv="refresh" content="0;url='https://nrcan.github.io/osdp-temp/en/rss.xml'" />
+        <meta http-equiv="refresh" content="0;url='https://osdp-lz-r2-drupal-bucket.s3.amazonaws.com/en/rss.xml'" />
 
-        <title>Redirecting to https://nrcan.github.io/osdp-temp/en/rss.xml</title>
+        <title>Redirecting to https://osdp-lz-r2-drupal-bucket.s3.amazonaws.com/en/rss.xml</title>
     </head>
     <body>
-        Redirecting to <a href="https://nrcan.github.io/osdp-temp/en/rss.xml">https://nrcan.github.io/osdp-temp/en/rss.xml</a>.
+        Redirecting to <a href="https://osdp-lz-r2-drupal-bucket.s3.amazonaws.com/en/rss.xml">https://osdp-lz-r2-drupal-bucket.s3.amazonaws.com/en/rss.xml</a>.
     </body>
 </html>
