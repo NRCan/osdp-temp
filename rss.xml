@@ -2,11 +2,11 @@
 <html>
     <head>
         <meta charset="UTF-8" />
-        <meta http-equiv="refresh" content="0;url='http://osdp.ericgoodwin.ca/en/rss.xml'" />
+        <meta http-equiv="refresh" content="0;url='http://osdp-lz-r2-drupal-bucket.s3.amazonaws.com/en/rss.xml'" />
 
-        <title>Redirecting to http://osdp.ericgoodwin.ca/en/rss.xml</title>
+        <title>Redirecting to http://osdp-lz-r2-drupal-bucket.s3.amazonaws.com/en/rss.xml</title>
     </head>
     <body>
-        Redirecting to <a href="http://osdp.ericgoodwin.ca/en/rss.xml">http://osdp.ericgoodwin.ca/en/rss.xml</a>.
+        Redirecting to <a href="http://osdp-lz-r2-drupal-bucket.s3.amazonaws.com/en/rss.xml">http://osdp-lz-r2-drupal-bucket.s3.amazonaws.com/en/rss.xml</a>.
     </body>
 </html>
